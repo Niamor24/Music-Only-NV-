@@ -6,6 +6,10 @@ D'autres pages sont en cours de création, pour les paramètres par exemple ou e
 
 - Les boutons play sous les cartes sont fonctionnels et bien liés à la musique correspondante.
 - La barre de lecture n'est pas encore fonctionnelle, c'est une feature à venir prochainement.
-- Le conteneur des playlist est scrollable indépendemment du reste de la page mais n'est pas encore link à des playlist ou des pages
+- Le conteneur des playlist est scrollable indépendemment du reste de la page mais n'est pas encore link à des playlists ou des pages
 
 C'est du dévelopement uniquement front-end
+
+Voici une petite vidéo de l'avancé, je tiens à m'excuser d'avance pour les bruits de micro en fond: 
+https://github.com/Niamor24/Music-Only-NV-/assets/114106691/6c78270c-8a19-4175-9595-800cb15918cd
+
