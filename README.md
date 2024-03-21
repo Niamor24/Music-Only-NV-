@@ -6,5 +6,6 @@ D'autres pages sont en cours de création, pour les paramètres par exemple ou e
 
 - Les boutons play sous les cartes sont fonctionnels et bien liés à la musique correspondante.
 - La barre de lecture n'est pas encore fonctionnelle, c'est une feature à venir prochainement.
+- Le conteneur des playlist est scrollable indépendemment du reste de la page mais n'est pas encore link à des playlist ou des pages
 
 C'est du dévelopement uniquement front-end
